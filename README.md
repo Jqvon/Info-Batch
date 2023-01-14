@@ -1,2 +1,2 @@
-# TikTakToe
-We will create a tik tak toe game with java
+# Info Tool
+This is a simple tool to collect information about your computer
